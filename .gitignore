@@ -1,2 +1,7 @@
 /cmake-build-debug/
 /CMakeLists.txt
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/swap.iml
+/.idea/vcs.xml
